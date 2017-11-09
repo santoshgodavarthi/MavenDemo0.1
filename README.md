@@ -1,1 +1,1 @@
-# This is my first Maven code.
+# Welcome to my *_first Maven_* Programm.
